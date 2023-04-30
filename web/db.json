@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "NEW NAME TEST",
+      "age": 0
+    },
+    {
+      "name": "new record",
+      "age": 20,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Manual Record",
+      "age": 50
+    },
+    {
+      "name": "NAME",
+      "age": 20,
+      "id": 4
+    },
+    {
+      "name": "NAME",
+      "age": 20,
+      "id": 5
+    },
+    {
+      "name": "test",
+      "age": 63,
+      "id": 6
+    }
+  ]
+}
